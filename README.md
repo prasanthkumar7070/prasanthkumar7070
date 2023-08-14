@@ -1,4 +1,4 @@
- <img align="right" alt="gif" src='' />
+
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Yalamanchili</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="gif" src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif' width="400" height="300" />
