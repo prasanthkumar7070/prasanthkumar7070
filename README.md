@@ -1,4 +1,4 @@
-
+<img align="right" alt="gif" src='https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630' height="300" />
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Yalamanchili</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="gif" src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif' width="400" height="300" />
