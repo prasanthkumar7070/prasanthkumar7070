@@ -1,4 +1,4 @@
-<img align="right" alt="gif" src='https://raw.githubusercontent.com/gist/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/01151_inthedeep_2560x1600.jpg' height="400" width="100%" />
+<img align="right" alt="gif" src='https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190900998/130370493-frontend-development-web-banner-concept-website-interface.jpg' height="400" width="100%" />
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Yalamanchili</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="gif" src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif' width="400" height="300" />
