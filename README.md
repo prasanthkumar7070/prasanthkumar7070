@@ -1,4 +1,4 @@
-<img align="right" alt="gif" src='https://semidotinfotech.com/web/images/frontend_banner.jpg' height="400" width="100%" />
+<img align="right" alt="gif" src='https://semidotinfotech.com/web/images/frontend_banner.jpg' width="100%" />
 <h1 align="center">Hi 👋, I'm Prasanth Kumar Yalamanchili</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
  <img align="right" alt="gif" src='https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif' width="400" height="300" />
